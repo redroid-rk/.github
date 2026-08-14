@@ -27,6 +27,8 @@
 <br>
 🈚️ 虚拟电源
 <br>
+🈚️ HWC直接输出
+<br>
 
 # Build Android Image
 ```bash
